@@ -148,7 +148,7 @@ const chatBody = document.getElementById("chatBody");
 //
 // After deploying the backend to Render, replace it with your real URL:
 //   const API_BASE_URL = "https://your-app-name.onrender.com";
-const API_BASE_URL = "http://localhost:5000";
+const API_BASE_URL = "https://hiraya-bot.onrender.com";
 
 
 // ================================================================
