@@ -814,9 +814,7 @@ For further assistance, you may reach us through:
 📘 <a href="https://www.facebook.com/AMAEducationSystem" target="_blank">AMA Education System on Facebook</a>`;
 }
 
-// ================================================================
-// SECTION 11.5: PROFANITY FILTER 🛡️
-// ================================================================
+
 const BAD_WORDS = [
     "fuck", "shit", "bitch", "asshole", "dick", "pussy", "stupid",
     "putangina", "gago", "bobo", "tarantado", "tangina", "ulol", 
